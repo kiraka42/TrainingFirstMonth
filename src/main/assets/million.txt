@@ -1,0 +1,8 @@
+7,l
+Qui est johnny Hallyday ?,un guitariste,un tennisman, un chanteur,un roi,2
+Qui est Jean Pierre Fouceau? ,presentateur,un clown, un donut, achi,0
+Qui a cree Scale Zone ?,michael,PIEM,henri,manuel,1
+Qu'est ce qui n'est pas de SZ ?,sigfox,h3 Dynamics,legalstart,pop&link,2
+start up presente pendant les 2 saisons,legalstart,pop&link,star wars,donut,1
+Qui s'est dresse contre le dg de IBM fr? ,PIEM,martin,francois,henri,0
+Quand s'est fini la 2nd guerre Mondiale?,1995,1945,1788,1933,1
