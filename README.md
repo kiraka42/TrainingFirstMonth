@@ -1,4 +1,5 @@
 # TrainingFirstMonth
+(not finished yet)
 An app training qui veux gagner des millions
 
 This is a "qui veux gagner des millions" app, it use a simply txt file for questions.
